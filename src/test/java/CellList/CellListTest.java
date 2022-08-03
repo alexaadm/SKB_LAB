@@ -33,7 +33,7 @@ public class CellListTest extends BaseTest {
     }
 
     @Test
-    @Description ("В выпающем списке Category 5 позиций")
+    @Description ("В выпадающем списке Category 5 позиций")
     public void checkCategoryList(){
       int expectedElementsAmount = 5;
 
